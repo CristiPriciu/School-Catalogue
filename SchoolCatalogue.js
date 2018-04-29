@@ -65,4 +65,4 @@ console.log(' ');
 console.log(alSmith);//Proof that alSmith exists
 
 /*line 54 : console.log(alSmith.sportsTeams); makes the alSmith array print twice. See lines 46 and 54.
- This is correct, as required by the Codeacademy course, i asked a advisor about it.*/
+ This is correct, as required by the Codecademy course, i asked a advisor about it.*/
